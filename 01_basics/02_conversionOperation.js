@@ -34,7 +34,9 @@ let negval = -value //negation
 //console.log(2/2)  divide
 //console.log(2%2)  mod/remainder
 
- let a="abcd"
- let b=" efgh"
- let c=a+b
- 
+let a="abcd"
+let b=" efgh"
+let c=a+b      //abcd efgh
+
+//console.log("1"+2+2) output -> 122
+//console.log(1+2+"2") output -> 32
