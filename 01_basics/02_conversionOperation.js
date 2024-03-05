@@ -23,3 +23,18 @@ console.log(boolLogIn);
 
 let StrlogIn = String(logIn)
 console.log(typeof StrlogIn) // string
+
+let value = 4
+let negval = -value //negation
+
+//console.log(2+2)  add
+//console.log(2-2)  subtract
+//console.log(2*2)  multiply
+//console.log(2**2) power
+//console.log(2/2)  divide
+//console.log(2%2)  mod/remainder
+
+ let a="abcd"
+ let b=" efgh"
+ let c=a+b
+ 
