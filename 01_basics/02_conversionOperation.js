@@ -40,3 +40,6 @@ let c=a+b      //abcd efgh
 
 //console.log("1"+2+2) output -> 122
 //console.log(1+2+"2") output -> 32
+
+//console.log(+true) -> 1
+//console.log(+"") -> 0
